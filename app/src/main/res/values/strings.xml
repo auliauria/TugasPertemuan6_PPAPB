@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pemesanan Tiket Kereta</string>
+    <string-array name="tujuan">
+        <item>Jakarta</item>
+        <item>Yogyakarta</item>
+        <item>Madiun</item>
+        <item>Surabaya</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp 150.000</item>
+        <item>Rp 100.000</item>
+        <item>Rp 200.000</item>
+        <item>Rp 250.000</item>
+    </string-array>
+</resources>
